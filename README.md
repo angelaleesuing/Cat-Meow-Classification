@@ -1,4 +1,28 @@
 # SECB3203_25261
 Programming For Bioinformatics
 
-This is a repository which served as central hub for the students to showcases their projects. In this courses, students will equipt with essential programming skills in bioinformatics. It introduces computational tools and techniques for solving biological problems. Students will explore Python programming as a core language for bioinformatics applications. Emphasis is placed on applying programming to address practical challenges in biological data analysis and problem-solving. The course is taught through lectures and hands-on labs, with active learning and a strong emphasis on practical problem-solving and applied programming skills. By the end of the course, students will be able to use Python programming to analyze biological data and design computational solutions. They will also develop autonomy, leadership, and responsibility in approaching bioinformatics tasks.
+# Cat Meow Classification Project
+
+## Group Members
+- Nurul Syasyawafa Binti Amran (A23CS0167)
+- Angela Lee Su Ing (A23CS0047)
+- Karen Yam Vei Xin (A23CS0093)
+
+## Course
+SECB3203 Programming for Bioinformatics  
+Semester 1 2025/2026  
+
+## Project Description
+This project aims to classify cat vocalizations using machine learning. Audio features (MFCCs) are extracted from cat meow audio files to train and evaluate regression models, including linear and ridge regression. The pipeline includes:
+- Data collection and pre-processing
+- Feature extraction (MFCC)
+- Exploratory data analysis
+- Model development and evaluation
+- Testing and validation
+
+## Software & Tools
+- Python 3.9+
+- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow / PyTorch, Librosa
+- IDE: VS Code / Jupyter Notebook
+- Dataset: Kaggle (Cat Meow Classification)
+
