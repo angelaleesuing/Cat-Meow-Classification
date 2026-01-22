@@ -4,10 +4,10 @@
 **Semester 1 2025/2026**  
 **Section 02 – Group 6**
 
-### Group Members
-- **Nurul Syasyawafa Binti Amran** (A23CS0167)  
+### Group Members 
 - **Angela Lee Su Ing** (A23CS0047)  
-- **Karen Yam Vei Xin** (A23CS0093)  
+- **Karen Yam Vei Xin** (A23CS0093)
+- **Nurul Syasyawafa Binti Amran** (A23CS0167) 
 
 **Lecturer:** Dr. Seah Choon Sen  
 **Submission Date:** 22 January 2026  
